@@ -2,4 +2,4 @@
 
 
 def fizzbuzz(n: int) :
-    pass
+    return n
